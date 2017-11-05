@@ -34,7 +34,6 @@ $ xcode-select --install
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-[Homebrew — The missing package manager for macOS](https://brew.sh/)
 
 4. Install Python3 with Homebrew
 ```
