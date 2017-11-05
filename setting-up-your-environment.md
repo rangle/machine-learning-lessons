@@ -1,4 +1,4 @@
-# Machine Learning: Setting up your environment
+# Setting up your environment for Machine Learning
 ## Introduction
 This tutorial walks you through the steps of setting up you development environment  so you can run machine learning computaitons with TensorFlow and Keras.
 
